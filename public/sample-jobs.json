@@ -1,0 +1,134 @@
+{
+  "updatedAt": "2026-10-25T06:48:12.655Z",
+  "jobs": [
+    {
+      "id": "sample1",
+      "url": "#",
+      "source": "Sample",
+      "sourceUrl": "#",
+      "employmentType": "Full-Time",
+      "tags": [
+        "React",
+        "Node.js"
+      ],
+      "description": "This is sample data shown only when running without the Netlify backend. Real jobs appear after deployment.",
+      "deadline": "2026-10-31T08:48:12.655Z",
+      "bdEligible": "yes",
+      "firstSeen": "2026-10-25T03:48:12.655Z",
+      "lastSeen": "2026-10-25T08:48:12.655Z",
+      "title": "Junior Software Engineer",
+      "company": "Sample Tech Ltd",
+      "scope": "bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "categories": [
+        "software",
+        "web"
+      ],
+      "level": "entry",
+      "postedAt": "2026-10-25T05:48:12.655Z"
+    },
+    {
+      "id": "sample2",
+      "url": "#",
+      "source": "Sample",
+      "sourceUrl": "#",
+      "employmentType": "Full-Time",
+      "tags": [
+        "Python",
+        "Django",
+        "AWS"
+      ],
+      "description": "This is sample data shown only when running without the Netlify backend. Real jobs appear after deployment.",
+      "deadline": null,
+      "bdEligible": "yes",
+      "firstSeen": "2026-10-25T03:48:12.655Z",
+      "lastSeen": "2026-10-25T08:48:12.655Z",
+      "title": "Senior Backend Engineer (Python)",
+      "company": "Example Remote Co",
+      "scope": "remote",
+      "location": "Anywhere in the World",
+      "categories": [
+        "software"
+      ],
+      "level": "senior",
+      "postedAt": "2026-10-24T12:48:12.655Z"
+    },
+    {
+      "id": "sample3",
+      "url": "#",
+      "source": "Sample",
+      "sourceUrl": "#",
+      "employmentType": "Full-Time",
+      "tags": [
+        "PyTorch",
+        "Python"
+      ],
+      "description": "This is sample data shown only when running without the Netlify backend. Real jobs appear after deployment.",
+      "deadline": null,
+      "bdEligible": "yes",
+      "firstSeen": "2026-10-23T08:48:12.655Z",
+      "lastSeen": "2026-10-25T08:48:12.655Z",
+      "title": "Machine Learning Intern",
+      "company": "Sample AI Lab",
+      "scope": "remote",
+      "location": "Asia",
+      "categories": [
+        "ai-ml",
+        "data"
+      ],
+      "level": "intern",
+      "postedAt": "2026-10-23T08:48:12.655Z"
+    },
+    {
+      "id": "sample4",
+      "url": "#",
+      "source": "Sample",
+      "sourceUrl": "#",
+      "employmentType": "Full-Time",
+      "tags": [
+        "SOC",
+        "SIEM"
+      ],
+      "description": "This is sample data shown only when running without the Netlify backend. Real jobs appear after deployment.",
+      "deadline": "2026-10-27T08:48:12.655Z",
+      "bdEligible": "yes",
+      "firstSeen": "2026-10-21T08:48:12.655Z",
+      "lastSeen": "2026-10-25T08:48:12.655Z",
+      "title": "Cyber Security Analyst",
+      "company": "Sample Secure BD",
+      "scope": "bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "categories": [
+        "security"
+      ],
+      "level": "mid",
+      "postedAt": "2026-10-21T08:48:12.655Z"
+    },
+    {
+      "id": "sample5",
+      "url": "#",
+      "source": "Sample",
+      "sourceUrl": "#",
+      "employmentType": "Full-Time",
+      "tags": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "description": "This is sample data shown only when running without the Netlify backend. Real jobs appear after deployment.",
+      "deadline": null,
+      "bdEligible": "no",
+      "firstSeen": "2026-10-25T03:48:12.655Z",
+      "lastSeen": "2026-10-25T08:48:12.655Z",
+      "title": "DevOps Engineer",
+      "company": "US Only Inc",
+      "scope": "remote",
+      "location": "USA Only",
+      "categories": [
+        "devops-cloud"
+      ],
+      "level": "mid",
+      "postedAt": "2026-10-24T08:48:12.655Z"
+    }
+  ],
+  "sources": []
+}
